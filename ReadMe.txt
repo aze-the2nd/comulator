@@ -1,3 +1,14 @@
+# Comulator 
+This Project is based on the source code of the NullModemEmulator.
+It's starting in June 2025 as a fresh-generated fork of the original code.
+
+The Plan is to add functionality in terms of usability and modulabilty.
+The projekt will change to a more library-like software, so that everyone 
+can add this sowtware to their project.
+
+
+
+
                  =============================
                  Null-modem emulator (com0com)
                  =============================
